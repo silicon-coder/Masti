@@ -2,11 +2,11 @@
 
 *Make sure you have a GitHub account. In case you don't have one, you can create your account by visiting https://github.com/ and clicking on ``Sign up`` option at the top right corner.*
 
-### 1. Register yourself for Hacktoberfest
+### 1. Register yourself for Hacktoberfest 2021
 ###### Link to register: https://hacktoberfest.digitalocean.com/
 Click on "Start Hacking" and add your GitHub account.
 
-![Screenshot-HFST](https://www.phplist.org/wp-content/uploads/2020/10/hacktoberfest-homepage.png)
+![Screenshot-HFST](https://hacktoberfest.digitalocean.com/share-card.png)
 
 
 
@@ -133,4 +133,4 @@ At this point, you are ready to make a pull request to the original repository.
 
 Navigate to your forked repository, and press the “New pull request” button on your left-hand side of your Repo page.
 
-# Hurray! You just got closer to completing your Hacktoberfest challenge.
+# Don't stop keep contributing!!!!
